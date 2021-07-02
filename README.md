@@ -35,7 +35,7 @@ operating system.
 very commonly used in professional software engineering settings. Learning how
 to use a UNIX-based operating system will be valuable for your future software
 engineering career. You may have heard of other UNIX-based operating systems
-like Ubuntu, Debian, or Fedora, which share a which include the Linux kernel
+like Ubuntu, Debian, or Fedora, which include the Linux kernel
 (core software). These types of operating systems work similarly.
 
 ### Terminals and Shells
